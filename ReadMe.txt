@@ -8,5 +8,5 @@ Points for Improvement:
 1. Import a script that would allow the program to run upon the computer's startup.
 2. Make the keylogger case sensitive. In its current state, the keylogger does not detect whether or not a keystroke is in uppercase or lowercase.
 
-Beatrice Tan
+Tan, Beatrice Bernardin G.
 2014-90702
